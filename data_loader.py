@@ -5,7 +5,7 @@ import skipthoughts
 import numpy as np
 from torch.autograd import Variable
 from torch.utils.data import Dataset
-  
+
 class Text2ImageDataset(Dataset):
   
 	def __init__(self, img_dir = "Images/images0.pickle", cap_dir = "Captions/captions_list.pickle"):
