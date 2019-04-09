@@ -1,4 +1,7 @@
-# Text-To-Image
+# Text-To-Image [GAN-CLS]
 
-The dataset which I'm using for this project is Flickr 30K.
-Rest of the details I'll update soon.
+Following algorithms and assets I'm using for this project.<br>
+- Dataset: FlickR 30K
+- Sentence Encoding: Skip Thought
+- Framework: Pytorch 1.0.1
+- Platform: Google Colab
